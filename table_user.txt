@@ -1,0 +1,4 @@
+INSERT INTO table_user VALUES
+('','Administrator','admin@gmail.com',SHA2('admin123', 224),'1','1'),
+('','Jihan Meyta Sari','guru@gmail.com',SHA2('guru123', 224),'2','1'),
+('','Sari','siswa@gmail.com',SHA2('siswa123', 224),'3','1');
